@@ -80,7 +80,7 @@ app = Flask(__name__)
 DB_HOST = "localhost"
 DB_NAME = "cyclone_intensity"
 DB_USER = "postgres"
-DB_PASSWORD = "admin#"
+DB_PASSWORD ="Dipu@db4327#""
 
 try:
     # establish connection with db
